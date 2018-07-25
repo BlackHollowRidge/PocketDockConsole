@@ -2,7 +2,7 @@ name: PocketDockConsole
 prefix: PDC
 main: PocketDockConsole\Main
 version: 0.0.14
-api: [1.0.0]
+api: [3.0.0]
 
 load: POSTWORLD
 author: humerusj
