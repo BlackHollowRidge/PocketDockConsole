@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CrusherPlays/PocketDockConsole-1
+branches:
+- master
+projects:
+  PocketDockConsole-1:
+    path: ""
+...
